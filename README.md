@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therealphatmike. I'm a software engineer at Toyota Racing Development where I work on applications mainly for NASCAR and IMSA.
 - 👀 I’m interested in development, cooking, cars, and math
-- 🌱 I’m currently learning Julia, Quantum Computing, and other higher-level mathematical topics
+- 🌱 I’m currently learning Julia, Quantum Computing, and other higher-level mathematical topics in preparation for grad school
 - :notebook: I currently am focused on  full stack Javascript development and a little bit of C++. I generally deploy it all via AWS or Netlify.
 
 <!---
